@@ -213,7 +213,7 @@ class BankingApp {
     }
 }
 // A main method to test the banking
-public class finalOutput {
+public class finalOuput {
     public static void main(String[] args) {
         // Create a banking object
         BankingApp app = new BankingApp();
