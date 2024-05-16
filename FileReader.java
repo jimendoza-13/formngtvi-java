@@ -18,6 +18,9 @@ class FileReader {
 }
 
 class FileReaderApp {
+    /**
+     * @param args
+     */
     public static void main(String[] args) {
         String filename = "my_data.txt"; // Replace with your desired filename
         try {
